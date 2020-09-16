@@ -19,3 +19,6 @@ elif q == 2:
 else:
     print('error')
 
+assert mul(n1,n2,n3) == n1*n2*n3
+assert div(n1,n2,n3) == n1/n2/n3
+
