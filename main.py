@@ -8,3 +8,14 @@ def mul(n1,n2,n3):
  return n4
 
 
+def div(n1,n2,n3):
+ n5=n1/n2/n3
+ return n5
+
+if q == 1:
+    print('the result of multiplication is: %s' % mul(n1,n2,n3))
+elif q == 2:
+    print('the result of division is: %s' % div(n1,n2,n3))
+else:
+    print('error')
+
