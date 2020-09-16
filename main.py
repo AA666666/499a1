@@ -1,0 +1,1 @@
+q=int(input('type 1 if you want to do multiplication,type 2 if you want to do division:'))
